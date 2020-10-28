@@ -4,6 +4,7 @@ nav-link active {
 
 body {
     background-color: lightgrey;
+    font-size: 40px;
 }
 
 html {
@@ -18,21 +19,20 @@ main {
     float: left;
 }
 .container {
-    
+
 }
+
+navbar-brand mb-0 h1 {
+    font-size: 50px;
+}
+
 
 p {
     padding: 20px 0;
     float: left;
+    font-size: 40px;
 }
 
-
-navbar-brand
-
-
-
-.navbar-default .navbar-nav > li > a:hover{
-    color: green;
 
 
 
